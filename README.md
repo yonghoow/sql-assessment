@@ -1,12 +1,15 @@
 # sql-assessment
+Qn 1: Ideally, you’ve completed Analze Data with SQL.
+
+My Ans: Still doing.
 
 Qn 2: First, use SELECT * from both tables and use your knowledge of queries and aggregate functions to get to know the data:
 
--What are the Top 25 schools (.edu domains)?
+- What are the Top 25 schools (.edu domains)?
 
--How many .edu learners are located in New York?
+- How many .edu learners are located in New York?
 
--The mobile_app column contains either mobile-user or NULL. How many of these Codecademy learners are using the mobile app?
+- The mobile_app column contains either mobile-user or NULL. How many of these Codecademy learners are using the mobile app?
 
 My Ans:
 
@@ -149,12 +152,12 @@ My Ans:
 
 1. What did you like about this project?
 
-I like that I can do the assessment using the Codecademy website to test my sql queries.
+Ans: I like that I can do the assessment using the Codecademy website to test my sql queries.
 
 2. What did you struggle with in this project?
 
-I struggled with count() and joining tables at the beginning. 
+Ans: I struggled with count() and joining tables at the beginning. 
 
 3. What would make your experience with this assessment better?
 
-I think nothing in this area. The experience is quite good.
+Ans: I think nothing in this area. The experience is quite good.
